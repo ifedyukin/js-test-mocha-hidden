@@ -1,0 +1,24 @@
+{
+  "name": "js-test-mocha",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "build": "echo \"Dummy build script\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ifedyukin/js-test-mocha.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ifedyukin/js-test-mocha/issues"
+  },
+  "homepage": "https://github.com/ifedyukin/js-test-mocha#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.0"
+  }
+}
